@@ -21,7 +21,15 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
-- `[2024 ICASSP]` **NAC: Mitigating Noisy Correspondence in Cross-Modal Matching Via Neighbor Auxiliary Corrector**
+- `[2024 IJCV]` **⭐Learning with Noisy Correspondence**  
+*Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng* 
+[[paper]](https://link.springer.com/article/10.1007/s11263-024-02064-0)
+
+- `[2024 TOIS]` **Breaking Through the Noisy Correspondence: A Robust Model for Image-Text Matching**   
+*Haitao Shi, Meng Liu, Xiaoxuan Mu, Xuemeng Song, Yupeng Hu, Liqiang Nie*
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3662732) 
+
+- `[2024 ICASSP]` **NAC: Mitigating Noisy Correspondence in Cross-Modal Matching Via Neighbor Auxiliary Corrector**  
 *Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang* 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10448059) 
 
@@ -101,7 +109,7 @@ We mark works contributed by ourselves with ⭐.
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 ##  Vision-Language Pre-training
-- `[2023 AAAI]` **NLIP: Noise-Robust Language-Image Pre-training** 
+- `[2023 AAAI]` **NLIP: Noise-Robust Language-Image Pre-training**   
 *Runhui Huang, Yanxin Long, Jianhua Han, Hang Xu, Xiwen Liang, Chunjing Xu, Xiaodan Liang*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25172)
 
@@ -176,6 +184,13 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)
 
 ## Image Captioning
+
+- `[2024 AAAI]` **Noise-Aware Image Captioning with Progressively Exploring Mismatched Words** 
+*Zhongtian Fu, Kefei Song, Luping Zhou, Yang Yang*
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29097)
+[[code]](https://github.com/njustkmg/NIC)
+
+
 - `[2022 CVPR]` **Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning**  
 *Wooyoung Kang, Jonghwan Mun, Sungjun Lee, Byungseok Roh*  
 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Noise-Aware_Learning_from_Web-Crawled_Image-Text_Data_for_Image_Captioning_ICCV_2023_paper.pdf)
