@@ -33,6 +33,11 @@ We mark works contributed by ourselves with ⭐.
 *Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang* 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10448059) 
 
+- `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
+*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo han, Ya Zhang, Yanfeng Wang*  
+[[paper]](https://arxiv.org/abs/2405.16996)
+[[code]](https://github.com/MediaBrain-SJTU/GSC)
+
 - `[2024 CVPR]` **Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**  
 *Haochen Han, Qinghua Zheng, Guang Dai, Minnan Luo, Jingdong Wang*  
 [[paper]](https://arxiv.org/html/2403.05105v1)
