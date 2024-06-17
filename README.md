@@ -197,7 +197,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 ## Image Captioning
 
 - `[2024 AAAI]` **Noise-Aware Image Captioning with Progressively Exploring Mismatched Words** 
-*Zhongtian Fu, Kefei Song, Luping Zhou, Yang Yang*
+*Zhongtian Fu, Kefei Song, Luping Zhou, Yang Yang*。
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29097)
 [[code]](https://github.com/njustkmg/NIC)
 
