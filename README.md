@@ -13,7 +13,7 @@ We mark works contributed by ourselves with ⭐.
 |  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
-|  [Multi-View Clustering](#multi-view-clustering)                  |                                                                |
+|  [Multi-View Clustering](#multi-view-clustering)                  |  [Audio-Visual Action Recognition](#audio-visual-action-recognition)         |
 |||
  
  
@@ -22,19 +22,25 @@ We mark works contributed by ourselves with ⭐.
 #### 2024
 
 - `[2024 IJCV]` **⭐Learning with Noisy Correspondence**  
-*Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng* 
+*Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng*   
 [[paper]](https://link.springer.com/article/10.1007/s11263-024-02064-0)
 
 - `[2024 TOIS]` **Breaking Through the Noisy Correspondence: A Robust Model for Image-Text Matching**   
-*Haitao Shi, Meng Liu, Xiaoxuan Mu, Xuemeng Song, Yupeng Hu, Liqiang Nie*
+*Haitao Shi, Meng Liu, Xiaoxuan Mu, Xuemeng Song, Yupeng Hu, Liqiang Nie*  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3662732) 
 
 - `[2024 ICASSP]` **NAC: Mitigating Noisy Correspondence in Cross-Modal Matching Via Neighbor Auxiliary Corrector**  
-*Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang* 
+*Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10448059) 
 
+
+- `[2024 CVPR]` **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
+*Yuchen Yang, Likai Wang, Erkun Yang, Cheng Deng*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Robust_Noisy_Correspondence_Learning_with_Equivariant_Similarity_Consistency_CVPR_2024_paper.pdf)
+
+
 - `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
-*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo han, Ya Zhang, Yanfeng Wang*  
+*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo han, Ya Zhang, Yanfeng Wang*    
 [[paper]](https://arxiv.org/abs/2405.16996)
 [[code]](https://github.com/MediaBrain-SJTU/GSC)
 
@@ -43,6 +49,9 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/html/2403.05105v1)
 [[code]](https://github.com/hhc1997/L2RM)
 
+- `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
+*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang*   
+[[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
 - `[2024 CVPR]` **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
 *Yuchen Yang, Erkun Yang, Likai Wang, Cheng Deng*  
@@ -234,6 +243,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
 [[paper]](https://arxiv.org/pdf/2311.03798.pdf)
 
+## Audio-Visual Action Recognition
+
+- `[2024 TMM]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
+*Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian and Yan Chen*  
+[[paper]](https://arxiv.org/pdf/2205.07611)
 
 ## Multi-View Clustering 
 
