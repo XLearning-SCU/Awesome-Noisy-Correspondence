@@ -13,7 +13,7 @@ We mark works contributed by ourselves with ⭐.
 |  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
-|  [Multi-View Clustering](#multi-view-clustering)                  |  [Audio-Visual Action Recognition](#audio-visual-action-recognition)         |
+|  [Multi-View Clustering](#multi-view-clustering)                  |    |
 |||
  
  
@@ -201,7 +201,6 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29097)
 [[code]](https://github.com/njustkmg/NIC)
 
-
 - `[2022 CVPR]` **Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning**  
 *Wooyoung Kang, Jonghwan Mun, Sungjun Lee, Byungseok Roh*  
 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Noise-Aware_Learning_from_Web-Crawled_Image-Text_Data_for_Image_Captioning_ICCV_2023_paper.pdf)
@@ -226,9 +225,10 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/Lin-Yijie/Graph-Matching-Networks)
 
 ## Visual-Audio Learning
-- `[2022 arXiv]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
-*Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian, Yan Chen*  
-[[paper]](https://arxiv.org/abs/2205.07611)
+
+- `[2024 TMM]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
+*Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian and Yan Chen*  
+[[paper]](https://arxiv.org/pdf/2205.07611)
 
 ## Machine Reading Comprehension
 
@@ -243,11 +243,6 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
 [[paper]](https://arxiv.org/pdf/2311.03798.pdf)
 
-## Audio-Visual Action Recognition
-
-- `[2024 TMM]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
-*Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian and Yan Chen*  
-[[paper]](https://arxiv.org/pdf/2205.07611)
 
 ## Multi-View Clustering 
 
