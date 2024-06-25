@@ -246,6 +246,9 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Multi-View Clustering 
 
+- `[2024 TKDE]` **⭐Robust Multi-View Clustering with Noisy Correspondence**  
+*Yuan Sun, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu*  
+
 - `[2024 AAAI]` **⭐Decoupled Contrastive Multi-view Clustering with High-order Random Walks**  
 *Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng*  
 [[paper]](http://pengxi.me/wp-content/uploads/2024/02/Decoupled_Contrastive_Multi_View_Clustering_with_High_Order_Random_Walks.pdf)
