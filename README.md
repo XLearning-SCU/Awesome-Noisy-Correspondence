@@ -21,7 +21,7 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
-- `[2024 ACMMMM]` **PC: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**  
+- `[2024 ACMMM]` **PC: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**  
 *Yue Duan, Zhangxuan Gu, Zhenzhe Ying, Lei Qi, Changhua Meng, Yinghuan Shi*   
 [[paper]](https://arxiv.org/abs/2408.01349)
 [[code]](https://github.com/alipay/PC2-NoiseofWeb)
