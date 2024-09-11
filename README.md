@@ -132,7 +132,7 @@ We mark works contributed by ourselves with ⭐.
 *Runhui Huang, Yanxin Long, Jianhua Han, Hang Xu, Xiwen Liang, Chunjing Xu, Xiaodan Liang*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25172)
 
-- `[2022 CVPR]` **Robust Cross-Modal Representation Learning with Progressive Self-Distillation** 
+- `[2022 CVPR]` **Robust Cross-Modal Representation Learning with Progressive Self-Distillation**  
 *Andonian, Alex and Chen, Shixing and Hamid, Raffay*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Andonian_Robust_Cross-Modal_Representation_Learning_With_Progressive_Self-Distillation_CVPR_2022_paper.pdf)
 
@@ -179,6 +179,8 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yijie Lin, Jie Zhang, Zhenyu Huang, Jia Liu, Zujie Wen, Xi Peng*  
 [[paper]](https://lin-yijie.github.io/projects/Norton/)
 [[code]](https://github.com/XLearning-SCU/2024-ICLR-Norton)
+[![](https://img.shields.io/github/stars/XLearning-SCU/2024-ICLR-Norton?style=social&label=Stars)](https://github.com/XLearning-SCU/2024-ICLR-Norton)
+
 
 - `[2024 Arxiv]` **A Strong Baseline for Temporal Video-Text Alignment**  
 *Li, Zeqian and Chen, Qirui and Han, Tengda and Zhang, Ya and Wang, Yanfeng and Xie, Weidi*  
@@ -204,7 +206,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Image Captioning
 
-- `[2024 AAAI]` **Noise-Aware Image Captioning with Progressively Exploring Mismatched Words** 
+- `[2024 AAAI]` **Noise-Aware Image Captioning with Progressively Exploring Mismatched Words**  
 *Zhongtian Fu, Kefei Song, Luping Zhou, Yang Yang*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29097)
 [[code]](https://github.com/njustkmg/NIC)
@@ -231,6 +233,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Lin, Yijie and Yang, Mouxing and Yu, Jun and Hu, Peng and Zhang, Changqing and Peng, Xi*  
 [[paper]](https://arxiv.org/pdf/2212.04085.pdf)
 [[code]](https://github.com/Lin-Yijie/Graph-Matching-Networks)
+[![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
 
 ## Visual-Audio Learning
 
