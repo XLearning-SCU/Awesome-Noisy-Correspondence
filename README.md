@@ -70,7 +70,7 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2403.08224) 
 
 - `[2024 TIP]` **⭐Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining**  
-*Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
+*Xinran Ma#, Mouxing Yang#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
 [[paper]](http://pengxi.me/wp-content/uploads/2024/03/Cross-modal-Retrieval-with-Noisy-Correspondence-via-Consistency-Refining-and-Mining.pdf)
 [[code]](https://github.com/XLearning-SCU/2024-TIP-CREAM)
 
