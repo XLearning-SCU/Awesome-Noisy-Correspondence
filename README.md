@@ -128,6 +128,11 @@ We mark works contributed by ourselves with ⭐.
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 ##  Vision-Language Pre-training
+- `[2024 TPAMI]` **⭐Noise-robust Vision-language Pre-training with Positive-negative Learning**  
+Zhenyu Huang#, Mouxing Yang#, Xinyan Xiao, Peng Hu, Xi Peng*  
+[[paper]](https://ieeexplore.ieee.org/document/10684058)
+[[code]](https://github.com/XLearning-SCU/2024-TPAMI-NEVER)
+
 - `[2023 AAAI]` **NLIP: Noise-Robust Language-Image Pre-training**   
 *Runhui Huang, Yanxin Long, Jianhua Han, Hang Xu, Xiwen Liang, Chunjing Xu, Xiaodan Liang*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25172)
