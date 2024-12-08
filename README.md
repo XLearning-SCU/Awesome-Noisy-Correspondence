@@ -3,7 +3,7 @@ A new research **direction** of label noise learning. Noisy correspondence learn
 
 We mark works contributed by ourselves with ⭐.
 
-*This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
+*This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), [Changhao He](https://he-changhao.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
 ## Tasks
 
 |||
@@ -20,6 +20,16 @@ We mark works contributed by ourselves with ⭐.
 ## Image-Text Matching/Retrieval
 
 #### 2024
+
+- `[2024 Arxiv]` **Disentangled Noisy Correspondence Learning**  
+*Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
+[[paper]](https://arxiv.org/pdf/2408.05503)
+
+
+- `[2024 MICCAI]` **Medical Cross-Modal Prompt Hashing with Robust Noisy Correspondence Learning**  
+*Yishu Liu, Zhongqi Wu, Bingzhi Chen, Zheng Zhang, Guangming Lu*  
+[[paper]](https://papers.miccai.org/miccai-2024/paper/2150_paper.pdf)
+
 
 - `[2024 ACMMM]` **$\text{PC}^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**  
 *Yue Duan, Zhangxuan Gu, Zhenzhe Ying, Lei Qi, Changhua Meng, Yinghuan Shi*   
@@ -242,6 +252,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Visual-Audio Learning
 
+- `[2024 PRCV]` **Robust Contrastive Learning Against Audio-Visual Noisy Correspondence**  
+*Yihan Zhao, Wei Xi, Gairui Bai, Xinhui Liu, Jizhong Zhao*  
+[[paper]](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_36)
+
+
 - `[2024 TMM]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
 *Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian and Yan Chen*  
 [[paper]](https://arxiv.org/pdf/2205.07611)
@@ -262,23 +277,103 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Multi-View Clustering 
 
+#### 2024
+
+- `[2024 ACMMM]` **⭐Robust Variational Contrastive Learning for Partially View-unaligned Clustering**  
+*Changhao He, Hongyuan Zhu, Peng Hu\*, Xi Peng*  
+[[paper]](https://github.com/He-Changhao/2024-MM-VITAL/blob/main/figs/VITAL.pdf)
+[[code]](https://github.com/He-Changhao/2024-MM-VITAL)
+
+
+- `[2024 NeurIPS]` **⭐Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence**  
+*Ruiming Guo#, Mouxing Yang#, Yijie Lin, Xi Peng, Peng Hu\**  
+[[paper]](https://openreview.net/pdf?id=6OvTbDClUn)
+[[code]](https://github.com/XLearning-SCU/2024-NeurIPS-CANDY)
+
+
+- `[2024 TPAMI]` **⭐Semantic invariant multi-view clustering with fully incomplete information**  
+*Pengxin Zeng, Mouxing Yang, Yiding Lu, Changqing Zhang, Peng Hu, Xi Peng\**  
+[[paper]](https://arxiv.org/pdf/2305.12743)
+[[code]](https://github.com/XLearning-SCU/2023-TPAMI-SMILE)
+
+
 - `[2024 TKDE]` **⭐Robust Multi-View Clustering with Noisy Correspondence**  
 *Yuan Sun, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu*  
+[[paper]](https://ieeexplore.ieee.org/document/10595464)
+[[code]](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
  
 - `[2024 AAAI]` **⭐Decoupled Contrastive Multi-view Clustering with High-order Random Walks**  
 *Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng*  
 [[paper]](http://pengxi.me/wp-content/uploads/2024/02/Decoupled_Contrastive_Multi_View_Clustering_with_High_Order_Random_Walks.pdf)
 [[code]](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)
 
+
+- `[2024 ACMMM]` **Contrastive Graph Distribution Alignment for Partially View-Aligned Clustering**  
+*Xibiao Wang, Hang Gao, Xindian Wei, Liang Peng, Rui Li, Cheng Liu, Si Wu, Hau-San Wong*  
+[[paper]](https://openreview.net/pdf?id=QoBHdPW1pM)
+
+
+- `[2024 IJCAI]` **Fast Unpaired Multi-view Clustering**  
+*Xingfeng Li, Yuangang Pan, Yinghui Sun, Quansen Sun, Ivor Tsang, Zhenwen Ren*  
+[[paper]](https://www.ijcai.org/proceedings/2024/0496.pdf)
+
+
+- `[2024 TCSVT]` **Partially View-Aligned Representation Learning via Cross-View Graph Contrastive Network**  
+*Yiming Wang, Dongxia Chang, Zhiqiang Fu, Jie Wen, Yao Zhao*  
+[[paper]](https://ieeexplore.ieee.org/document/10471595)
+[[code]](https://github.com/wangemm/CGCN-TCSVT-2024)
+
+
+- `[2024 ICBDA]` **Pseudo-Label Guided Partially View-Aligned Clustering**  
+*Songtao Wu, Ruixin Ma, Qiongjie Xie, Liang Zhao*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10607306)
+
+
+- `[2024 TNNLS]` **Dynamic Graph Guided Progressive Partial View-Aligned Clustering**  
+*Liang Zhao, Qiongjie Xie, Zhengtao Li, Songtao Wu, Yi Yang*  
+[[paper]](https://ieeexplore.ieee.org/document/10606529)
+
+
+- `[2024 Neural Networks]` **Partially multi-view clustering via re-alignment**  
+*Wenbiao Yan, Jihua Zhu, Jinqian Chen, Haozhe Cheng, Shunshun Bai, Liang Duan, Qinghai Zheng*  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S089360802400813X)
+
+
+- `[2024 TNNLS]` **Iterative multiview subspace learning for unpaired multiview clustering**  
+*Wanqi Yang, Like Xin, Lei Wang, Ming Yang, Wenzhu Yan, Yang Gao*  
+[[paper]](https://ieeexplore.ieee.org/document/10149819)
+
+
+#### 2023
+
+- `[2023 TNNLS]` **Selective contrastive learning for unpaired multi-view clustering**  
+*Like Xin , Wanqi Yang, Lei Wang, Ming Yang*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10327758)
+
+
+#### 2022
+
 - `[2022 TPAMI]` **⭐Robust Multi-View Clustering With Incomplete Information**  
 *Mouxing Yang, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
 [[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 
+
+#### 2021
+
 - `[2021 CVPR]` **⭐Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**   
 *Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
+
+
+- `[2021 KDD]` **A novel multi-view clustering method for unknown mapping relationships between cross-view samples**  
+*Hong Yu, Jia Tang, Guoyin Wang, Xinbo Gao*  
+[[paper]](https://dl.acm.org/doi/10.1145/3447548.3467294)
+[[code]](https://github.com/yuhongcqupt/MVC-UM)
+
+
+#### 2020
 
 - `[2020 NeurIPS Oral]` **⭐Partially View-aligned Clustering**  
 *Zhenyu Huang, Peng Hu, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*  
