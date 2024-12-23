@@ -13,7 +13,7 @@ We mark works contributed by ourselves with ⭐.
 |  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
-|  [Retrieval-augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
+|  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
 ||| 
  
  
@@ -24,6 +24,7 @@ We mark works contributed by ourselves with ⭐.
 - `[2024 Arxiv]` **Disentangled Noisy Correspondence Learning**  
 *Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
 [[paper]](https://arxiv.org/pdf/2408.05503)
+
 
 - `[2024 TOMM]`  **Bias Mitigation and Representation Optimization for Noise-Robust Cross-modal Retrieval**  
 *Yu Liu, Haipeng Chen, Guihe Qin, Jincai Song, Xun Yang*  
@@ -277,7 +278,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
 [[paper]](https://arxiv.org/pdf/2311.03798.pdf)
 
-## Retrieval-augmented Generation
+## Retrieval-Augmented Generation
 
 - `[2024 Arxiv]` **MLLM is A Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation Via Knowledge-enhanced Reranking and Noise-injected Training**  
 *Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo*  
@@ -388,3 +389,4 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Zhenyu Huang, Peng Hu, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*  
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
+
