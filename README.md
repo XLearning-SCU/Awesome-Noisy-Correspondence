@@ -13,8 +13,8 @@ We mark works contributed by ourselves with ⭐.
 |  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
-|  [Multi-View Clustering](#multi-view-clustering)                  |    |
-|||
+|  [Retrieval-augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
+||| 
  
  
 ## Image-Text Matching/Retrieval
@@ -25,6 +25,11 @@ We mark works contributed by ourselves with ⭐.
 *Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
 [[paper]](https://arxiv.org/pdf/2408.05503)
 
+-- 
+
+- `[2024 TOMM]`  **Bias Mitigation and Representation Optimization for Noise-Robust Cross-modal Retrieval**  
+*Yu Liu, Haipeng Chen, Guihe Qin, Jincai Song, Xun Yang*  
+[[paper]](https://dl.acm.org/doi/pdf/10.1145/3700596)
 
 - `[2024 MICCAI]` **Medical Cross-Modal Prompt Hashing with Robust Noisy Correspondence Learning**  
 *Yishu Liu, Zhongqi Wu, Bingzhi Chen, Zheng Zhang, Guangming Lu*  
@@ -274,6 +279,12 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
 [[paper]](https://arxiv.org/pdf/2311.03798.pdf)
 
+## Retrieval-augmented Generation
+
+- `[2024 Arxiv]` **MLLM is A Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation Via Knowledge-enhanced Reranking and Noise-injected Training**  
+*Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo*  
+[[paper]](https://arxiv.org/pdf/2407.21439)
+[[code]](https://github.com/IDEA-FinAI/RagVL)
 
 ## Multi-View Clustering 
 
