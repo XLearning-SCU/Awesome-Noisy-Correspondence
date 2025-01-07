@@ -167,6 +167,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Re-identification
 
+- `[2024 Arxiv]` **AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**  
+*Runqing Zhang, Xue Zhou*  
+[[paper]](https://arxiv.org/abs/2409.06385)
+[[code]](https://github.com/RunQing715/AMNS)
+
 - `[2024 CVPR]` **⭐Noisy-Correspondence Learning for Text-to-Image Person Re-identification**  
 *Qin, Yang and Chen, Yingke and Peng, Dezhong and Peng, Xi and Zhou, Joey Tianyi and Hu, Peng*  
 [[paper]](https://arxiv.org/abs/2308.09911)
