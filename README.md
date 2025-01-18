@@ -167,6 +167,10 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Re-identification
 
+- `[2024 PRICAI]` **False Positive Detection for Text-Based Person Retrieval**  
+*Yan Cao, Jun Lu*  
+[[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_22)
+
 - `[2024 Arxiv]` **AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**  
 *Runqing Zhang, Xue Zhou*  
 [[paper]](https://arxiv.org/abs/2409.06385)
