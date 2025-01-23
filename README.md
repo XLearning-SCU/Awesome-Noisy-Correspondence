@@ -19,6 +19,14 @@ We mark works contributed by ourselves with ⭐.
  
 ## Image-Text Matching/Retrieval
 
+#### 2025
+
+- `[2025 AAAI]` **TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval**  
+*Shuai Lyu, Zijing Tian, Zhonghong Ou, Yifan Zhu, Xiao Zhang, Qiankun Ha, Haoran Luo, Meina Song*    
+[[paper]](https://arxiv.org/pdf/2501.10935)
+
+
+
 #### 2024
 
 - `[2024 Arxiv]` **Disentangled Noisy Correspondence Learning**  
