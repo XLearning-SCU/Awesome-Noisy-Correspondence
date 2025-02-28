@@ -14,12 +14,18 @@ We mark works contributed by ourselves with ⭐.
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
 |  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
+|  [Composed Image Retrieval](#composed-image-retrieval)            |                                                                |
 ||| 
  
  
 ## Image-Text Matching/Retrieval
 
 #### 2025
+
+- `[2025 CVPR]` **ReCon: Enhancing True Correspondence Discrimination through Relation Consistency for Robust Noisy Correspondence Learning**  
+*Quanxing Zha, Xin Liu, Shu-Juan Peng, Yiu-ming Cheung, Xing Xu, Nannan Wang*  
+[[paper]](https://arxiv.org/pdf/2502.19962)
+[[code]](https://github.com/qxzha/ReCon)
 
 - `[2025 AAAI]` **TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval**  
 *Shuai Lyu, Zijing Tian, Zhonghong Ou, Yifan Zhu, Xiao Zhang, Qiankun Ha, Haoran Luo, Meina Song*    
@@ -42,6 +48,9 @@ We mark works contributed by ourselves with ⭐.
 *Yishu Liu, Zhongqi Wu, Bingzhi Chen, Zheng Zhang, Guangming Lu*  
 [[paper]](https://papers.miccai.org/miccai-2024/paper/2150_paper.pdf)
 
+- `[2024 ACMMM]` **Partially Aligned Cross-modal Retrieval via Optimal Transport-based Prototype Alignment Learning**  
+*Junsheng Wang, Tiantian Gong, Yan Yan*   
+[[paper]](https://dl.acm.org/doi/10.1145/3664647.3681577)
 
 - `[2024 ACMMM]` **$\text{PC}^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**  
 *Yue Duan, Zhangxuan Gu, Zhenzhe Ying, Lei Qi, Changhua Meng, Yinghuan Shi*   
@@ -175,6 +184,15 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Re-identification
 
+- `[2025 TIFS]` **⭐Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**  
+*Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu*  
+[[paper]](https://ieeexplore.ieee.org/document/10858072)
+
+- `[2024 ECCV]` **MMM: Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification**  
+*Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*  
+[[paper]](https://arxiv.org/pdf/2401.06825)
+[[code]](https://github.com/shijiangming1/MMM)
+
 - `[2024 PRICAI]` **False Positive Detection for Text-Based Person Retrieval**  
 *Yan Cao, Jun Lu*  
 [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_22)
@@ -200,6 +218,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Song Wu, Shihao Shan, Guoqiang Xiao, Michael S. Lew, Xinbo Gao*  
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0952197624001489)
 [[code]]( https://github.com/SWU-CS-MediaLab/MBBA)
+
+- `[2023 ICCV]` **Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification**  
+*Shi, Jiangming and Zhang, Yachao and Yin, Xiangbo and Xie, Yuan and Zhang, Zhizhong and Fan, Jianping and Shi, Zhongchao and Qu, Yanyun*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)
+[[code]](https://github.com/XiangboYin/DPIS_SSVI-ReID)
 
 - `[2022 CVPR]` **⭐Learning With Twin Noisy Labels for Visible-Infrared Person Re-Identification**  
 *Mouxing Yang, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng*  
@@ -304,6 +327,17 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Multi-View Clustering 
 
+#### 2025
+
+- `[2025 CVPR]` **⭐ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence**  
+*Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu*  
+[[paper]](https://sunyuan-cs.github.io/)
+[[code]](https://sunyuan-cs.github.io/)
+
+- `[2025 TKDD]` **Margin-aware Noise-robust Contrastive Learning for Partially View-aligned Problem**  
+*Yalan Qin, Nan Pu, Hanzhou Wu, Nicu Sebe*  
+[[paper]](https://dl.acm.org/doi/full/10.1145/3707646)
+
 #### 2024
 
 - `[2024 ACMMM]` **⭐Robust Variational Contrastive Learning for Partially View-unaligned Clustering**  
@@ -407,3 +441,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
 
+
+
+## Composed Image Retrieval
+
+- `[2025 CVPR]` **⭐Learning with Noisy Triplet Correspondence for Composed Image Retrieval**  
+*Shuxian Li#, Changhao He#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu\**  
+[[paper]](https://he-changhao.github.io/)
+[[code]](https://he-changhao.github.io/)
