@@ -14,10 +14,10 @@ We mark works contributed by ourselves with ⭐.
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
 |  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
-|  [Composed Image Retrieval](#composed-image-retrieval)            |                                                                |
+|  [Composed Image Retrieval](#composed-image-retrieval)            |  [Text-to-SQL](#text-to-sql)                                   |
 ||| 
- 
- 
+
+
 ## Image-Text Matching/Retrieval
 
 #### 2025
@@ -35,6 +35,9 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
+- `[2024 Arxiv]` **Robust Noisy Correspondence Learning via Self-Drop and Dual-Weight**  
+*Fan Liu, Chenwei Dong, Chuanyi Zhang, Hualiang Zhou, Jun Zhou*    
+[[paper]](https://arxiv.org/abs/2412.06172)
 
 - `[2024 NeurIPS]` **One-step Noisy Label Mitigation**  
 *Hao Li, Jiayang Gu, Jingkuan Song, An Zhang, Lianli Gao*    
@@ -455,3 +458,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Shuxian Li#, Changhao He#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu\**  
 [[paper]](https://he-changhao.github.io/)
 [[code]](https://he-changhao.github.io/)
+
+
+## Text-to-SQL
+
+- `[2025 ICLR]` **⭐ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL**  
+*Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng\*, Peng Hu\*, Jieping Ye*  
+[[paper]](https://openreview.net/pdf?id=BAglD6NGy0)
+[[code]](https://github.com/alibaba/Route)
