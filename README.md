@@ -35,6 +35,12 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
+
+- `[2024 NeurIPS]` **One-step Noisy Label Mitigation**  
+*Hao Li, Jiayang Gu, Jingkuan Song, An Zhang, Lianli Gao*    
+[[paper]](https://arxiv.org/pdf/2410.01944)
+[[code]](https://github.com/leolee99/OSA)
+
 - `[2024 Arxiv]` **Disentangled Noisy Correspondence Learning**  
 *Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
 [[paper]](https://arxiv.org/pdf/2408.05503)
