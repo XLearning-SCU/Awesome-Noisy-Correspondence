@@ -39,7 +39,7 @@ We mark works contributed by ourselves with ⭐.
 *Fan Liu, Chenwei Dong, Chuanyi Zhang, Hualiang Zhou, Jun Zhou*    
 [[paper]](https://arxiv.org/abs/2412.06172)
 
-- `[2024 NeurIPS]` **One-step Noisy Label Mitigation**  
+- `[2024 Arxiv]` **One-step Noisy Label Mitigation**  
 *Hao Li, Jiayang Gu, Jingkuan Song, An Zhang, Lianli Gao*    
 [[paper]](https://arxiv.org/pdf/2410.01944)
 [[code]](https://github.com/leolee99/OSA)
@@ -466,3 +466,4 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng\*, Peng Hu\*, Jieping Ye*  
 [[paper]](https://openreview.net/pdf?id=BAglD6NGy0)
 [[code]](https://github.com/alibaba/Route)
+ 
