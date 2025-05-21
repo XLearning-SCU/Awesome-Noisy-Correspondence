@@ -15,12 +15,21 @@ We mark works contributed by ourselves with ⭐.
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
 |  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
 |  [Composed Image Retrieval](#composed-image-retrieval)            |  [Text-to-SQL](#text-to-sql)                                   |
+|  [Legal Case Retrieval](#legal-case-retrieval)            |                                     |
 ||| 
 
 
 ## Image-Text Matching/Retrieval
 
 #### 2025
+
+- `[2025 ICLR]` **Discovering Clone Negatives via Adaptive Contrastive Learning for Image-Text Matching**  
+*Renjie Pan, Jihao Dong, Hua Yang*    
+[[paper]](https://openreview.net/pdf?id=My9MBsO41H)
+
+- `[2025 Arxiv]` **Disentangled Noisy Correspondence Learning**  
+*Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
+[[paper]](https://arxiv.org/pdf/2408.05503)
 
 - `[2025 CVPR]` **ReCon: Enhancing True Correspondence Discrimination through Relation Consistency for Robust Noisy Correspondence Learning**  
 *Quanxing Zha, Xin Liu, Shu-Juan Peng, Yiu-ming Cheung, Xing Xu, Nannan Wang*  
@@ -31,7 +40,9 @@ We mark works contributed by ourselves with ⭐.
 *Shuai Lyu, Zijing Tian, Zhonghong Ou, Yifan Zhu, Xiao Zhang, Qiankun Ha, Haoran Luo, Meina Song*    
 [[paper]](https://arxiv.org/pdf/2501.10935)
 
-
+- `[2025 AAAI]` **Noisy Correspondence Rectifcation via Asymmetric Similarity Learning**  
+*Yunbo Wang, YuJie Wu, Zhien Dai, Can Tian, Jun Long, Jianhai Chen*    
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35439)
 
 #### 2024
 
@@ -193,6 +204,14 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Re-identification
 
+- `[2025 TCSVT]` **Visible-Infrared Person Re-Identification With Real-World Label Noise**  
+*Ruiheng Zhang, Zhe Cao, Yan Huang, Shuo Yang, Lixin Xu, Min Xu*  
+[[paper]](https://ieeexplore.ieee.org/document/10829635)
+
+- `[2025 Arxiv]` **Dynamic Uncertainty Learning with Noisy Correspondence for Text-Based Person Search**  
+*Zequn Xie, Haoming Ji, Lingwei Meng*  
+[[paper]](https://arxiv.org/abs/2505.06566)
+
 - `[2025 TIFS]` **⭐Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**  
 *Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu*  
 [[paper]](https://ieeexplore.ieee.org/document/10858072)
@@ -297,6 +316,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
 [[paper]](http://pengxi.me/wp-content/uploads/2024/03/Cross-modal-Retrieval-with-Noisy-Correspondence-via-Consistency-Refining-and-Mining.pdf)
 [[code]](https://github.com/XLearning-SCU/2024-TIP-CREAM)
+
 - `[2023 ICCV]` **⭐Graph Matching with Noisy Correspondence**  
 *Lin, Yijie and Yang, Mouxing and Yu, Jun and Hu, Peng and Zhang, Changqing and Peng, Xi*  
 [[paper]](https://arxiv.org/pdf/2212.04085.pdf)
@@ -308,7 +328,6 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 - `[2024 PRCV]` **Robust Contrastive Learning Against Audio-Visual Noisy Correspondence**  
 *Yihan Zhao, Wei Xi, Gairui Bai, Xinhui Liu, Jizhong Zhao*  
 [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_36)
-
 
 - `[2024 TMM]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
 *Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian and Yan Chen*  
@@ -337,6 +356,15 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 ## Multi-View Clustering 
 
 #### 2025
+
+- `[2025 TCSVT]` **A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency**  
+*Hang Gao, Cheng Liu, Zuosong Cai, Hongming Sun, Gaoyang Li, Ying Li, Wei Du*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11005507)
+[[code]](https://github.com/kongyiH/TCLPVC)
+
+- `[2025 AAAI]` **Incomplete and Unpaired Multi-View Graph Clustering with Cross-View Feature Fusion**  
+*Liang Zhao, Ziyue Wang, Xiao Wang, Zhikui Chen, Bo Xu*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34439)
 
 - `[2025 CVPR]` **⭐ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence**  
 *Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu*  
@@ -466,4 +494,12 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng\*, Peng Hu\*, Jieping Ye*  
 [[paper]](https://openreview.net/pdf?id=BAglD6NGy0)
 [[code]](https://github.com/alibaba/Route)
+ 
+
+## Legal Case Retrieval
+
+- `[2025 Information Sciences]` **Uncertainty-aware evidential learning for legal case retrieval with noisy correspondence**  
+*Weicong Qin, Weijie Yu, Kepu Zhang, Haiyuan Zhao, Jun Xu, Ji-Rong Wen*  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0020025525000477)
+
  
