@@ -27,7 +27,7 @@ We mark works contributed by ourselves with ⭐.
 *Renjie Pan, Jihao Dong, Hua Yang*    
 [[paper]](https://openreview.net/pdf?id=My9MBsO41H)
 
-- `[2025 Arxiv]` **Disentangled Noisy Correspondence Learning**  
+- `[2025 TIP]` **Disentangled Noisy Correspondence Learning**  
 *Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
 [[paper]](https://arxiv.org/pdf/2408.05503)
 
