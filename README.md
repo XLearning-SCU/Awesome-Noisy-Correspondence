@@ -55,11 +55,6 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/pdf/2410.01944)
 [[code]](https://github.com/leolee99/OSA)
 
-- `[2024 Arxiv]` **Disentangled Noisy Correspondence Learning**  
-*Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
-[[paper]](https://arxiv.org/pdf/2408.05503)
-
-
 - `[2024 TOMM]`  **Bias Mitigation and Representation Optimization for Noise-Robust Cross-modal Retrieval**  
 *Yu Liu, Haipeng Chen, Guihe Qin, Jincai Song, Xun Yang*  
 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3700596)
