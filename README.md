@@ -1,6 +1,6 @@
 # Noisy-Correspondence Learning Summary (Updating)
-A new research **direction** in Trustworthy Machine Learning. 
-Noisy correspondence refers to inherently irrelevant or relevant samples that are wrongly regarded as associated (_i.e._, false positive) or unassociated (_i.e._, false negative), which is first revealed and studied in [NCR (NeurIPS 2021, Oral)](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) and [MvCLN (CVPR 2021)]([https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.html)) by the [XLearning](https://github.com/XLearning-SCU) group.
+A **new research direction** in Trustworthy Machine Learning. 
+Noisy correspondence refers to inherently irrelevant or relevant samples that are wrongly regarded as associated (_i.e._, false positive) or unassociated (_i.e._, false negative), which is first revealed and studied in [NCR (NeurIPS 2021, Oral)](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) and [MvCLN (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.html) by the [XLearning](https://github.com/XLearning-SCU) group.
 Noisy correspondence learning aims to eliminate the adverse effects of such mismatched pairs (e.g., false positives/negatives) across various tasks.
 
 We mark works contributed by ourselves with ⭐.
