@@ -3,9 +3,9 @@ A **new research direction** in Trustworthy Machine Learning.
 Noisy correspondence refers to inherently irrelevant or relevant samples that are wrongly regarded as associated (_i.e._, false positive) or unassociated (_i.e._, false negative), which is first revealed and studied in [NCR (NeurIPS 2021, Oral)](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) and [MvCLN (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.html) by the [XLearning](https://github.com/XLearning-SCU) group.
 Noisy correspondence learning aims to eliminate the adverse effects of such mismatched pairs (e.g., false positives/negatives) across various tasks.
 
-We mark works contributed by ourselves with ⭐.
+We mark works contributed by our group with ⭐.
 
-*This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), [Changhao He](https://he-changhao.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
+*This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), [Changhao He](https://he-changhao.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more researchers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
 ## Tasks
 
 |||
