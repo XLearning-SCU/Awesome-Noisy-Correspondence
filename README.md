@@ -176,6 +176,11 @@ We mark works contributed by our group with ⭐.
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 ##  Vision-Language Pre-training
+- `[2025 ICCV]` **⭐Unlearning the Noisy Correspondence Makes CLIP More Robust**  
+Haochen Han, Alex Jinpeng Wang*, Peijun Ye, Fangming Liu*  
+[[paper]](https://arxiv.org/pdf/2507.03434)
+[[code]](https://github.com/hhc1997/NCU)
+
 - `[2024 TPAMI]` **⭐Noise-robust Vision-language Pre-training with Positive-negative Learning**  
 Zhenyu Huang#, Mouxing Yang#, Xinyan Xiao, Peng Hu, Xi Peng*  
 [[paper]](https://ieeexplore.ieee.org/document/10684058)
