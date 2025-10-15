@@ -25,9 +25,21 @@ We mark works contributed by our group with ⭐.
 
 #### 2025
 
+
+- `[2025 Arxiv]` **PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence**  
+*Zheng Li, Yanming Guo, WenZhe Liu, Xueyi Zhang, Zhaoyun Ding, Long Xu, Mingrui Lao*  
+[[paper]](https://arxiv.org/pdf/2508.20066)
+
 - `[2025 Arxiv]` **Unlearning the Noisy Correspondence Makes CLIP More Robust**  
 *Haochen Han, Alex Jinpeng Wang, Peijun Ye, Fangming Liu*  
 [[paper]](https://arxiv.org/pdf/2507.03434)
+
+
+
+- `[2025 AIC.]` **Cross-Modal Matching with Noisy Correspondence via Neighbor Replacing**  
+*Ao Han and Yang Cao*  
+[[paper]](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_26)
+
 
 - `[2025 SIGIR]` **Meta-Guided Adaptive Weight Learner for Noisy Correspondence**  
 *Chenyu Mu, Erkun Yang, Cheng Deng*  
@@ -54,6 +66,10 @@ We mark works contributed by our group with ⭐.
 *Quanxing Zha, Xin Liu, Shu-Juan Peng, Yiu-ming Cheung, Xing Xu, Nannan Wang*  
 [[paper]](https://arxiv.org/pdf/2502.19962)
 [[code]](https://github.com/qxzha/ReCon)
+
+- `[2025 AAAI]` **Noisy Correspondence Rectification via Asymmetric Similarity Learning**  
+*Yunbo Wang, YuJie Wu, Zhien Dai, Can Tian, Jun Long, Jianhai Chen*    
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35439)
 
 - `[2025 AAAI]` **TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval**  
 *Shuai Lyu, Zijing Tian, Zhonghong Ou, Yifan Zhu, Xiao Zhang, Qiankun Ha, Haoran Luo, Meina Song*    
@@ -193,13 +209,19 @@ We mark works contributed by our group with ⭐.
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 ##  Vision-Language Pre-training
+
+- `[2025 ICIC]` **NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**  
+*Yiyi Tao, Zhuoyue Wang, Hang Zhang, Lun Wang, and Jianxin Gu*  
+[[paper]](https://arxiv.org/pdf/2507.03434)
+[[code]](https://github.com/hhc1997/NCU)
+
 - `[2025 ICCV]` **Unlearning the Noisy Correspondence Makes CLIP More Robust**  
-Haochen Han, Alex Jinpeng Wang*, Peijun Ye, Fangming Liu*  
+*Haochen Han, Alex Jinpeng Wang*, Peijun Ye, Fangming Liu*  
 [[paper]](https://arxiv.org/pdf/2507.03434)
 [[code]](https://github.com/hhc1997/NCU)
 
 - `[2024 TPAMI]` **⭐Noise-robust Vision-language Pre-training with Positive-negative Learning**  
-Zhenyu Huang#, Mouxing Yang#, Xinyan Xiao, Peng Hu, Xi Peng*  
+*Zhenyu Huang#, Mouxing Yang#, Xinyan Xiao, Peng Hu, Xi Peng*  
 [[paper]](https://ieeexplore.ieee.org/document/10684058)
 [[code]](https://github.com/XLearning-SCU/2024-TPAMI-NEVER)
 
@@ -222,6 +244,31 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/salesforce/ALBEF)
 
 ## Re-identification
+
+- `[2025 TPAMI]` **Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning**  
+*Min Cao, Xinyu Zhou, Ding Jiang, Bo Du, Mang Ye, Min Zhang*
+[[paper]](https://github.com/Flame-Chasers/Bi-IRRA)
+
+- `[2025 TIP]` **Dynamic sparse and weight allocation-based text-driven person retrieval**  
+*Shuren Zhou, Qihang Zhou, Jiao Liu*
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0262885625003257)
+
+- `[2025 TIP]` **Enhancing Text-Based Person Retrieval by Combining Fused Representation and Reciprocal Learning With Adaptive Loss Refinement**  
+*Anh D. Nguyen and Hoa N. Nguyen*
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11119813)
+
+- `[2025 IJCAI]` **Cross-modal Collaborative Representation Learning for Text-to-Image Person Retrieval**  
+*Shuanglin Yan, Jun Liu, Neng Dong, Liyan Zhang and Jinhui Tang*
+[[paper]](https://www.ijcai.org/proceedings/2025/0240.pdf)
+
+- `[2025 EMNLP]` **Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval**  
+*Tianlu Zheng, Yifan Zhang, Xiang An, Ziyong Feng, Kaicheng Yang, Qichuan Ding*
+[[paper]](https://arxiv.org/pdf/2509.09118)
+[[code]](https://github.com/Multimodal-Representation-Learning-MRL/GA-DMS)
+
+- `[2025 Information Fusion]` **Dual alignment: Partial negative and soft-label alignment for text-to-image person retrieval**  
+*Xulin Song a, Xing Jin, Jin Qi, Jun Liu*  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S156625352500716X)
 
 - `[2025 ICIC‌]` **CLIO: A Unified Framework for Consistency-Aware Learning and Intra-Modal Optimization in Text-Based Person Re-identification**  
 *Xinpan Yuan, Shaomin Xie, Guihu Zhao, Liujie Hua, Wenguang Gan, Jiawei He, Jiabao Li*  
