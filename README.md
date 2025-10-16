@@ -434,7 +434,40 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 #### 2025
 
-- `[2025 TCSVT]` **A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency**  
+- `[2025 arXiv]` **Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence**  
+*Xihong Yang, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, Xinwang Liu, En Zhu, Kunlun He*
+[[paper]](https://arxiv.org/abs/2509.16022)
+
+- `[2025 TPAMI]` **Probabilistically Aligned View-unaligned Clustering with Adaptive Template Selection**  
+*Wenhua Dong, Xiao-Jun Wu, Zhenhua Feng, Sara Atito, Muhammad Awais, Josef Kittler*
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11194914)
+[[code]](https://github.com/Wenhua-Dong/PAVuC_ATS)
+
+- `[2025 CVPR]` **Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning**  
+*Yuzhuo Dai, Jiaqi Jin, Zhibin Dong, Siwei Wang, Xinwang Liu, En Zhu, Xihong Yang, Xinbiao Gan, Yu Feng*
+[[paper]](https://arxiv.org/abs/2505.11182)
+[[code]](https://github.com/zoyadai/2025_CVPR_FreeCSL)
+
+- `[2025 IJCAI]` **Robust Graph Contrastive Learning for Incomplete Multi-view Clustering**  
+*Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, Yuan Sun, Zhenwen Ren*
+[[paper]](https://www.ijcai.org/proceedings/2025/810)
+[[code]](https://github.com/DYZ163/RGCL)
+
+- `[2025 TIP]` **Prototype Matching Learning for Incomplete Multi-view Clustering**  
+*Honglin Yuan, Yuan Sun, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren*
+[[paper]](https://ieeexplore.ieee.org/document/10847794)
+[[code]](https://github.com/hl-yuan/PMIMC)
+
+- `[2025 TNNLS]` **Multilevel Reliable Guidance for Unpaired Multiview Clustering**  
+*Like Xin, Wanqi Yang, Lei Wang, Ming Yang*
+[[paper]](https://arxiv.org/pdf/2407.01247)
+
+- `[2025 TCSVT]` **Anchor-guided Sample-and-feature Incremental Alignment Framework for Multi-view Clustering**  
+*Qian Qu, Xinhang Wan, Jiyuan Liu, Xinwang Liu, En Zhu*
+[[paper]](https://doi.org/10.1109/TCSVT.2025.3614344)
+[[code]](https://github.com/QuQian24/ASIA-MVC)
+
+- `[2025 TCSVT]` **A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency**    
 *Hang Gao, Cheng Liu, Zuosong Cai, Hongming Sun, Gaoyang Li, Ying Li, Wei Du*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11005507)
 [[code]](https://github.com/kongyiH/TCLPVC)
@@ -447,6 +480,18 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu*  
 [[paper]](https://sunyuan-cs.github.io/)
 [[code]](https://sunyuan-cs.github.io/)
+
+- `[2025 ESWA]` **Partially View-aligned Clustering via Data Recoupling and Elastic Bi-consistency Learning**
+*Wenzhe Liu, Jiongcheng Zhu, Jingbo Tan, Huibing Wang, Yong Zhang*
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417425033561)
+
+- `[2025 IEEE SPL]` **Pseudo-Label Guided Incomplete Partial View-aligned Clustering**
+*Shubin Ma, Liang Zhao, Songtao Wu, Bo Xu*
+[[paper]](https://doi.org/10.1109/LSP.2025.3596220)
+
+- `[2025 Inf. Sci.]` **Cross-View Alignment and Completion for Incomplete Information Multi-View Clustering**
+*Xinyue Liu, Sai Ma, Guosheng Chen, Jiayu Liu, Linlin Zong*
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0020025525006474)
 
 - `[2025 TKDD]` **Margin-aware Noise-robust Contrastive Learning for Partially View-aligned Problem**  
 *Yalan Qin, Nan Pu, Hanzhou Wu, Nicu Sebe*  
@@ -481,6 +526,12 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng*  
 [[paper]](http://pengxi.me/wp-content/uploads/2024/02/Decoupled_Contrastive_Multi_View_Clustering_with_High_Order_Random_Walks.pdf)
 [[code]](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)
+
+
+- `[2024 ACM MM]` **Robust prototype completion for incomplete multi-view clustering**
+*Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, Yuan Sun, Zhenwen Ren*
+[[paper]](https://openreview.net/pdf?id=4BrIZo3Ave)
+[[code]](https://github.com/hl-yuan/RPCIC)
 
 
 - `[2024 ACMMM]` **Contrastive Graph Distribution Alignment for Partially View-Aligned Clustering**  
