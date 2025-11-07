@@ -1,3 +1,4 @@
+
 # Noisy-Correspondence Learning Summary (Updating)
 A **new research direction** in Trustworthy Machine Learning. 
 Noisy correspondence refers to inherently irrelevant or relevant samples that are wrongly regarded as associated (_i.e._, false positive) or unassociated (_i.e._, false negative), which is first revealed and studied in [NCR (NeurIPS 2021, Oral)](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) and [MvCLN (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.html) by the [XLearning](https://github.com/XLearning-SCU) group.
@@ -17,7 +18,7 @@ We mark works contributed by our group with ⭐.
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
 |  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
 |  [Composed Image Retrieval](#composed-image-retrieval)            |  [Text-to-SQL](#text-to-sql)                                   |
-|  [Legal Case Retrieval](#legal-case-retrieval)            |                                     |
+|  [Legal Case Retrieval](#legal-case-retrieval)                    |  [3D-Text Matching](#3d-text-matching)                         |
 ||| 
 
 
@@ -25,6 +26,20 @@ We mark works contributed by our group with ⭐.
 
 #### 2025
 
+- `[2025 ACM MM]` **Noise Self-Correction via Relation Propagation for Robust Cross-Modal Retrieval**  
+*Ruoxuan Li, Xiangyu Wu, Yang Yang*  
+[[paper]](http://home.njustkmg.cn:4056/assets/pdf/publications/Conference%20Papers/GLP.pdf)
+[[code]](https://github.com/njustkmg/MM25-GLP)
+
+- `[2025 IJCAI]` **Seeking Proxy Point via Stable Feature Space for Noisy Correspondence Learning**  
+*Yucheng Xie, Songyue Cai, Tao Tong, Ping Hu, Xiaofeng Zhu*   
+[[paper]](https://www.ijcai.org/proceedings/2025/0231.pdf)
+[[code]](https://github.com/C-TeaRanger/SPS)
+
+
+- `[2025 Arxiv]` **PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning**  
+*Zhuoyao Liu, Yang Liu, Wentao Feng, Shudong Huang*  
+[[paper]](https://arxiv.org/pdf/2509.15623)
 
 - `[2025 Arxiv]` **PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence**  
 *Zheng Li, Yanming Guo, WenZhe Liu, Xueyi Zhang, Zhaoyun Ding, Long Xu, Mingrui Lao*  
@@ -33,7 +48,6 @@ We mark works contributed by our group with ⭐.
 - `[2025 Arxiv]` **Unlearning the Noisy Correspondence Makes CLIP More Robust**  
 *Haochen Han, Alex Jinpeng Wang, Peijun Ye, Fangming Liu*  
 [[paper]](https://arxiv.org/pdf/2507.03434)
-
 
 
 - `[2025 AIC.]` **Cross-Modal Matching with Noisy Correspondence via Neighbor Replacing**  
@@ -370,6 +384,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Image Captioning
 
+
+- `[2025 ACL]` **Learning to Describe Implicit Changes: Noise-robust Pre-training for Image Difference Captioning**  
+*Zixin Guo, Jiayang Sun, Tzu-Jui Julius Wang, Abduljalil Radman, Selen Pehlivan, Min Cao, Jorma Laaksonen*
+[[paper]](https://aclanthology.org/2025.findings-emnlp.537/)
+
 - `[2024 AAAI]` **Noise-Aware Image Captioning with Progressively Exploring Mismatched Words**  
 *Zhongtian Fu, Kefei Song, Luping Zhou, Yang Yang*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29097)
@@ -388,6 +407,10 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/chingyaoc/RINCE)
 
 ## Graph Matching 
+
+- `[2025 CVIU.]` **Cross-graph meta matching correction for noisy graph matching**  
+**Fangkai Li, Feiyu Pan, Wenjia Meng, Haoliang Sun, Xiushan Nie, Yilong Yin, Xiankai Lu**  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S1077314225001560)
 
 - `[2024 TIP]` **⭐Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining**  
 *Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
@@ -630,4 +653,9 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Weicong Qin, Weijie Yu, Kepu Zhang, Haiyuan Zhao, Jun Xu, Ji-Rong Wen*  
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025525000477)
 
- 
+
+## 3D-Text Matching
+- `[2025 TMM]` **⭐PointCloud-Text Matching: Benchmark Dataset and Baseline**  
+*Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11086386)
+[[code]](https://github.com/Yangl1nFeng/RoMa)
