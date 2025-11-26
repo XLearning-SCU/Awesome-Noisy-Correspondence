@@ -659,3 +659,9 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11086386)
 [[code]](https://github.com/Yangl1nFeng/RoMa)
+
+
+## Multi-modal Knowledge Graphs
+- `[2025 Arxiv]` **⭐Learning with Dual-level Noisy Correspondence for Multi-modal Entity Alignment**  
+*Haobin Li, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng*  
+[[paper]](https://www.arxiv.org/abs/2510.18240)
