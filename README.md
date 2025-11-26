@@ -19,6 +19,7 @@ We mark works contributed by our group with ⭐.
 |  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
 |  [Composed Image Retrieval](#composed-image-retrieval)            |  [Text-to-SQL](#text-to-sql)                                   |
 |  [Legal Case Retrieval](#legal-case-retrieval)                    |  [3D-Text Matching](#3d-text-matching)                         |
+|  [Multi-modal Knowledge Graphs](#Multi-modal-knowledge-graphs)                    |                         |
 ||| 
 
 
