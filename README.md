@@ -19,13 +19,69 @@ We mark works contributed by our group with ⭐.
 |  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
 |  [Composed Image Retrieval](#composed-image-retrieval)            |  [Text-to-SQL](#text-to-sql)                                   |
 |  [Legal Case Retrieval](#legal-case-retrieval)                    |  [3D-Text Matching](#3d-text-matching)                         |
-|  [Multi-modal Knowledge Graphs](#Multi-modal-knowledge-graphs)                    |                         |
 ||| 
 
 
 ## Image-Text Matching/Retrieval
 
+#### 2026
+
+- `[2026 TIP]` **Pseudo-Text Guided Robust Learning for Noisy Correspondence in Cross-Modal Retrieval**  
+*Dan Shi, Zechao Li, Lei Zhu, Jinhui Tang*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11455609)
+[[code]](https://github.com/shidan0122/PTRL.git)
+
+- `[2026 AAAI Oral ⭐]` **Robust Semi-paired Multimodal Learning for Cross-modal Retrieval**  
+*Yang Qin, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39684)
+[[code]](https://github.com/QinYang79/RCSL)
+
+- `[2026 AAAI]` **Noisy Correspondence Learning with Modality Gap Direction Correction**  
+*Wuyuqing Wang, Zeyuan Gu, Erkun Yang*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37984)
+[[code]](https://github.com/wwyq1/MGCS)
+
+
+- `[2026 AAAI]` **Boosting Noisy Correspondence Discrimination via Dynamic Neighborhood Semantic Verification**  
+*Yu Wang, Fengxia Han, Jianyu Wang*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39880)
+
+
+
+- `[2026 TCSVT]` **Aleatoric-Epistemic Joint Uncertainty Modeling for Cross-Modal Retrieval**  
+*Tianyu Chang, Peipei Song, Xun Yang, Dan Guo, Xiaojun Chang*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11410080)
+
+- `[2026 TIP]` **Exploring Hierarchical Cross-Modal Correlation Consistency for Partial Mismatching**  
+*Xiaoqing Liu, Zhiwen Yu, Jun Yu, Huanqiang Zeng, Zhuoyao Wang , C. L. Philip Chen*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11410080)
+
+
+
+- `[2026 TMM]` **Privileged information assisted learning from noisy correspondence**  
+*Tao Yao , Yizhen Wu , Linliang Zhang, Guorui Sheng , Ying Li , Qi Tian*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11410080)
+
+
+- `[2026 Neurocomputing]` **Privileged information assisted learning from noisy correspondence**  
+Zihua Zhao, Tianjie Dai, Mengxi Chen, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang*  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S092523122600130X)
+
+- `[2026 Info. F.]` **Negative Can Be Positive: A Stable and Noise-Resistant Complementary Contrastive Learning for Cross-Modal Matching**  
+*Fangming Zhong, Xinyu He, Haiquan Yu, Xiu Liu, Suhua Zhang*  
+[[paper]](http://home.njustkmg.cn:4056/assets/pdf/publications/Conference%20Papers/GLP.pdf)
+[[code]](https://github.com/hxy2969/dcl)
+
+- `[2026 SCIS]` **Noise Self-Correction via Relation Propagation for Robust Cross-Modal Retrieval**  
+*Yu Liu, Haipeng Chen, Xun Yang, Yingda Lyu, Meng Wang*  
+[[paper]](http://scis.scichina.com/en/2026/132107.pdf)
+
+- `[2026 ubinec.org]` **HaNa: Hardness and Noise-Aware Robust Cross-modal Retrieval**  
+*Fangming Zhong, Haiquan Yu, Cun Zhu, Suhua Zhang*  
+[[paper]](http://ubinec.org/zfm/src/publication/HaNa.pdf)
+
 #### 2025
+
 
 - `[2025 ACM MM]` **Noise Self-Correction via Relation Propagation for Robust Cross-Modal Retrieval**  
 *Ruoxuan Li, Xiangyu Wu, Yang Yang*  
@@ -260,6 +316,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Re-identification
 
+
 - `[2025 TPAMI]` **Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning**  
 *Min Cao, Xinyu Zhou, Ding Jiang, Bo Du, Mang Ye, Min Zhang*
 [[paper]](https://github.com/Flame-Chasers/Bi-IRRA)
@@ -347,11 +404,14 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/XLearning-SCU/2022-CVPR-DART)
 
 
-
 ## Video-Text Learning
 
-- `[2025 CVPR]`  Rethinking Noisy Video-Text Retrieval via Relation-aware Alignment
-*Huakai Lai, Guoxin Xiong, Huayu Mai, Xiang Liu, Tianzhu Zhang*
+- `[2026 WWW]` **Evidential Matching, Uncertainty Calibration: Towards Robust Composed Video Retrieval with Noisy Triplets**  
+*Zhangtao Cheng, Bozhu Zheng, Ting Zhong, Fan Zhou*  
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792641)
+
+- `[2025 CVPR]`  **Rethinking Noisy Video-Text Retrieval via Relation-aware Alignment**  
+*Huakai Lai, Guoxin Xiong, Huayu Mai, Xiang Liu, Tianzhu Zhang*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_Rethinking_Noisy_Video-Text_Retrieval_via_Relation-aware_Alignment_CVPR_2025_paper.html)
 
 - `[2024 ICLR Oral]` **⭐Multi-granularity Correspondence Learning from Long-term Noisy Videos**  
@@ -384,7 +444,6 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)
 
 ## Image Captioning
-
 
 - `[2025 ACL]` **Learning to Describe Implicit Changes: Noise-robust Pre-training for Image Difference Captioning**  
 *Zixin Guo, Jiayang Sun, Tzu-Jui Julius Wang, Abduljalil Radman, Selen Pehlivan, Min Cao, Jorma Laaksonen*
@@ -630,9 +689,24 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
 
-
-
 ## Composed Image Retrieval
+
+- `[2026 CVPR]` **Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**  
+*Zhiheng Fu, Yupeng Hu, Qianyun Yang, Shiqi Zhang, Zhiwei Chen, Zixu Li*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+[[code]](https://github.com/iLearn-Lab/CVPR26-Air-Know)
+
+- `[2026 AAAI]` **INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**  
+*Zhiwei Chen, Yupeng Hu, Zhiheng Fu, Zixu Li, Jiale Huang, Qinlei Huang, Yinwei Wei*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+
+- `[2026 AAAI]` **HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**  
+*Zixu Li, Yupeng Hu, Zhiwei Chen, Shiqi Zhang, Qinlei Huang, Zhiheng Fu, Yinwei Wei*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37608)
+
+- `[2025 ICCV]` **Multi-Schema Proximity Network for Composed Image Retrieval**  
+*Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_Multi-Schema_Proximity_Network_for_Composed_Image_Retrieval_ICCV_2025_paper.pdf)
 
 - `[2025 CVPR]` **⭐Learning with Noisy Triplet Correspondence for Composed Image Retrieval**  
 *Shuxian Li#, Changhao He#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu\**  
@@ -660,9 +734,3 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11086386)
 [[code]](https://github.com/Yangl1nFeng/RoMa)
-
-
-## Multi-modal Knowledge Graphs
-- `[2025 Arxiv]` **⭐Learning with Dual-level Noisy Correspondence for Multi-modal Entity Alignment**  
-*Haobin Li, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng*  
-[[paper]](https://www.arxiv.org/abs/2510.18240)
