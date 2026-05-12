@@ -23,6 +23,7 @@ We mark works contributed by our group with ⭐.
 
 ## Image-Text Matching/Retrieval
 
+
 #### 2026
 
 - `[2026 TIP]` **Pseudo-Text Guided Robust Learning for Noisy Correspondence in Cross-Modal Retrieval**  
@@ -316,27 +317,35 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 ## Re-identification
 
 - `[2026 AAAI]` **Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval**  
-*Xinpan YUan, Shaomin Xie, Liujie Hua, Chengyuan Zhang, Guihu Zhao,  Lin Yuanbo Wu*
+*Xinpan YUan, Shaomin Xie, Liujie Hua, Chengyuan Zhang, Guihu Zhao,  Lin Yuanbo Wu*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38218/42180)
 
+- `[2026 DASFAA]` **Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search**  
+*Xinpan Yuan, Wenguang Gan, Yuqi Chen, Shaomin Xie, Chengyuan Zhang, Liujie Hua*  
+[[paper]](https://link.springer.com/content/pdf/10.1007/978-981-92-0363-5_4.pdf?pdf=inline%20link)
+
+- `[2026 SPL]` **Learning With Dual Noisy Labels for Text-to-Image Person Re-identification**  
+*Zhaopan Xu, Wangbo Zhao, Pengfei Zhou, Panpan Zhang, Xiaojiang Peng, Hongxun Yao*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11348104)
+
 - `[2025 TPAMI]` **Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning**  
-*Min Cao, Xinyu Zhou, Ding Jiang, Bo Du, Mang Ye, Min Zhang*
+*Min Cao, Xinyu Zhou, Ding Jiang, Bo Du, Mang Ye, Min Zhang*  
 [[paper]](https://github.com/Flame-Chasers/Bi-IRRA)
 
 - `[2025 TIP]` **Dynamic sparse and weight allocation-based text-driven person retrieval**  
-*Shuren Zhou, Qihang Zhou, Jiao Liu*
+*Shuren Zhou, Qihang Zhou, Jiao Liu*  
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0262885625003257)
 
 - `[2025 TIP]` **Enhancing Text-Based Person Retrieval by Combining Fused Representation and Reciprocal Learning With Adaptive Loss Refinement**  
-*Anh D. Nguyen and Hoa N. Nguyen*
+*Anh D. Nguyen and Hoa N. Nguyen*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11119813)
 
 - `[2025 IJCAI]` **Cross-modal Collaborative Representation Learning for Text-to-Image Person Retrieval**  
-*Shuanglin Yan, Jun Liu, Neng Dong, Liyan Zhang and Jinhui Tang*
+*Shuanglin Yan, Jun Liu, Neng Dong, Liyan Zhang and Jinhui Tang*  
 [[paper]](https://www.ijcai.org/proceedings/2025/0240.pdf)
 
 - `[2025 EMNLP]` **Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval**  
-*Tianlu Zheng, Yifan Zhang, Xiang An, Ziyong Feng, Kaicheng Yang, Qichuan Ding*
+*Tianlu Zheng, Yifan Zhang, Xiang An, Ziyong Feng, Kaicheng Yang, Qichuan Ding*  
 [[paper]](https://arxiv.org/pdf/2509.09118)
 [[code]](https://github.com/Multimodal-Representation-Learning-MRL/GA-DMS)
 
@@ -736,3 +745,4 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11086386)
 [[code]](https://github.com/Yangl1nFeng/RoMa)
+
