@@ -21,7 +21,6 @@ We mark works contributed by our group with ⭐.
 |  [Legal Case Retrieval](#legal-case-retrieval)                    |  [3D-Text Matching](#3d-text-matching)                         |
 ||| 
 
-
 ## Image-Text Matching/Retrieval
 
 #### 2026
@@ -316,6 +315,9 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Re-identification
 
+- `[2026 AAAI]` **Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval**  
+*Xinpan YUan, Shaomin Xie, Liujie Hua, Chengyuan Zhang, Guihu Zhao,  Lin Yuanbo Wu*
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38218/42180)
 
 - `[2025 TPAMI]` **Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning**  
 *Min Cao, Xinyu Zhou, Ding Jiang, Bo Du, Mang Ye, Min Zhang*
