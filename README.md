@@ -16,10 +16,12 @@ We mark works contributed by our group with ⭐.
 |  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
-|  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
-|  [Composed Image Retrieval](#composed-image-retrieval)            |  [Text-to-SQL](#text-to-sql)                                   |
-|  [Legal Case Retrieval](#legal-case-retrieval)                    |  [3D-Text Matching](#3d-text-matching)                         |
+|  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-modal/view Classification](#multi-modalview-classification) |
+|  [Multi-View Clustering](#multi-view-clustering)                  |  [Composed Image/Video Retrieval](#composed-imagevideo-retrieval) |
+|  [Text-to-SQL](#text-to-sql)                                      |  [Legal Case Retrieval](#legal-case-retrieval)                 |
+|  [3D-Text Matching](#3d-text-matching)                            |                                                                  |
 ||| 
+
 
 ## Image-Text Matching/Retrieval
 
@@ -479,6 +481,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Graph Matching 
 
+- `[2026 TPAMI]` **⭐Learning with Partial and Noisy Correspondence in Graph Matching**  
+*Yijie Lin, Mouxing Yang, Peng Hu, Jiancheng Lv, Hao Chen, Xi Peng*  
+[[paper]](https://xlearning-lab.com/assets/2026-TPAMI-Learning-With-Partial-and-Noisy-Correspondence-in-Graph-Matching.pdf)
+[[code]](https://github.com/XLearning-SCU/2026-TPAMI-COMMON)
+
 - `[2025 CVIU.]` **Cross-graph meta matching correction for noisy graph matching**  
 **Fangkai Li, Feiyu Pan, Wenjia Meng, Haoliang Sun, Xiushan Nie, Yilong Yin, Xiankai Lu**  
 [[paper]](https://www.sciencedirect.com/science/article/pii/S1077314225001560)
@@ -524,9 +531,76 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://arxiv.org/pdf/2407.21439)
 [[code]](https://github.com/IDEA-FinAI/RagVL)
 
+## Multi-modal/view Classification
+
+- `[2026 CVPR]` **⭐Bootstrapping Multi-view Learning for Test-time Noisy Correspondence**  
+*Changhao He, Di Xue, Shuxian Li, Yanji Hao, Xi Peng, Peng Hu*  
+[[paper]](https://xlearning-lab.com/assets/2026-CVPR-Bootstrapping-Multi-view-Learning-for-Test-time-Noisy-Correspondence.pdf)
+[[code]](https://github.com/XLearning-SCU/2026-CVPR-BML)
+
 ## Multi-View Clustering 
 
+#### 2026
+
+- `[2026 ICLR Oral]` **⭐Uncover Underlying Correspondence for Robust Multi-view Clustering**  
+*Haochen Zhou, Guofeng Ding, Mouxing Yang, Peng Hu, Yijie Lin, Xi Peng*  
+[[paper]](https://openreview.net/forum?id=a4S1nQay3b)
+[[code]](https://github.com/XLearning-SCU/2026-ICLR-CorreGen)
+
+- `[2026 AAAI]` **KNNDA: A New Perspective of Alignment Recovery for Partially View-Aligned Clustering**  
+*Liang Zhao, Tianqi Yue, Shubin Ma, Ziyue Wang, Zhiyuan Liu, Bo Xu*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40103)
+[[code]](https://github.com/ICEY-Moon7/AAAI-26-KNNDA)
+
+- `[2026 AAAI]` **Learning Whom to Align With: Progressive Anomaly Combination Detection for Partially View-Aligned Clustering**  
+*Hang Gao, Zuosong Cai, Yuze Li, Cheng Liu, Gaoyang Li, Ying Li, Wei Du, You Zhou*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39261)
+
+- `[2026 TKDE]` **Cross-View Graph Matching for Unsupervised Learning With Unaligned Multi-View Clustering**  
+*Zhibin Dong, Shengju Yu, Siwei Wang, Xinwang Liu, En Zhu*  
+[[paper]](https://doi.org/10.1109/TKDE.2026.3659906)
+
+- `[2026 TCSVT]` **Dynamic Weight-Enhanced Contrastive Learning for Partially View-Aligned Clustering**  
+*Qiuyu Chen, Xihong Yang, Zhibin Dong, Qian Qu, En Zhu, Xinwang Liu*  
+[[paper]](https://doi.org/10.1109/TCSVT.2026.3679096)
+
+- `[2026 TMM]` **Multi-View Aligned Clustering Via Sample-Bundled Optimization: Anchor Graph Enhancement and Contrastive Propagation**  
+*Shubin Ma, Zhikui Chen, Yuanbo Wu, Liang Zhao*  
+[[paper]](https://doi.org/10.1109/TMM.2026.3665001)
+
+- `[2026 PR]` **Unaligned Multi-view Clustering via Diversified Anchor Graph Fusion**  
+*Hongyu Jiang, Hong Tao, Zhangqi Jiang, Chenping Hou*  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320325006375)
+[[code]](https://github.com/revolution6575/DAGF)
+
 #### 2025
+
+- `[2025 TCSVT]` **SMART: Semantic Matching Contrastive Learning for Partially View-Aligned Clustering**  
+*Liang Peng, Yixuan Ye, Cheng Liu, Hangjun Che, Fei Wang, Zhiwen Yu, Si Wu, Hau-San Wong*  
+[[paper]](https://arxiv.org/abs/2512.15396)
+[[code]](https://github.com/THPengL/SMART)
+
+- `[2025 ACM MM]` **Scalable One-step Unaligned Multi-view Clustering via Joint High-Order Correlation Learning**  
+*Hongyu Jiang, Yuxin Huo, Sirou Sheng, Hong Tao, Chenping Hou*  
+[[paper]](https://dl.acm.org/doi/10.1145/3746027.3755172)
+[[code]](https://github.com/revolution6575/JHCL)
+
+- `[2025 IJCAI]` **Consistency-Aware Padding for Incomplete Multi-Modal Alignment Clustering Based on Self-Repellent Greedy Anchor Search**  
+*Shubin Ma, Liang Zhao, Mingdong Lu, Yifan Guo, Bo Xu*  
+[[paper]](https://www.ijcai.org/proceedings/2025/659)
+[[code]](https://github.com/Autism-mm/CAPIMAC)
+
+- `[2025 ACM MM]` **Dual-Learning based Penalized Multi-Align Clustering for Multi-View Incomplete and Disorderly Data**  
+*Liang Zhao, Shubin Ma, Bo Xu, Qingchen Zhang*  
+[[paper]](https://dl.acm.org/doi/10.1145/3746027.3755116)
+
+- `[2025 Tsinghua Sci. Technol.]` **AGPVC: Partially View-aligned Clustering With Anchor Graph for Multi-view Data**  
+*Tao Yang, Liang Zhao, Jingyuan Zhao, Shubin Ma, Qiongjie Xie, Yukun Yuan*  
+[[paper]](https://www.sciopen.com/article/10.26599/TST.2025.9010104)
+
+- `[2025 Tsinghua Sci. Technol.]` **Joint Promotion of HNEMD and Contrastive Learning in Multi-view Alignment Clustering**  
+*Shubin Ma, Liang Zhao, Hainan Guo, Zhikui Chen, Jingyuan Zhao, Chenhui Yao*  
+[[paper]](https://www.sciopen.com/article/10.26599/TST.2025.9010179)
 
 - `[2025 arXiv]` **Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence**  
 *Xihong Yang, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, Xinwang Liu, En Zhu, Kunlun He*  
@@ -700,20 +774,32 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
 
-## Composed Image Retrieval
+## Composed Image/Video Retrieval
 
 - `[2026 CVPR]` **Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**  
 *Zhiheng Fu, Yupeng Hu, Qianyun Yang, Shiqi Zhang, Zhiwei Chen, Zixu Li*  
-[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+[[paper]](https://arxiv.org/abs/2604.19386)
 [[code]](https://github.com/iLearn-Lab/CVPR26-Air-Know)
+
+- `[2026 CVPR]` **ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**  
+*Zixu Li, Yupeng Hu, Zhiwei Chen, Mingyu Zhang, Zhiheng Fu, Liqiang Nie*  
+[[paper]](https://arxiv.org/abs/2604.20358)
+[[code]](https://github.com/iLearn-Lab/CVPR26-ConeSep)
 
 - `[2026 AAAI]` **INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**  
 *Zhiwei Chen, Yupeng Hu, Zhiheng Fu, Zixu Li, Jiale Huang, Qinlei Huang, Yinwei Wei*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+[[code]](https://github.com/iLearn-Lab/AAAI26-INTENT)
 
 - `[2026 AAAI]` **HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**  
 *Zixu Li, Yupeng Hu, Zhiwei Chen, Shiqi Zhang, Qinlei Huang, Zhiheng Fu, Yinwei Wei*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37608)
+[[code]](https://github.com/iLearn-Lab/AAAI26-HABIT)
+
+- `[2026 WWW]` **Evidential Matching, Uncertainty Calibration: Towards Robust Composed Video Retrieval with Noisy Triplets**  
+*Zhangtao Cheng, Bozhu Zheng, Ting Zhong, Fan Zhou*  
+[[paper]](https://dl.acm.org/doi/10.1145/3774904.3792641)
+[[code]](https://github.com/zbzzbzzbz/CURE)
 
 - `[2025 ICCV]` **Multi-Schema Proximity Network for Composed Image Retrieval**  
 *Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*  
@@ -746,3 +832,4 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11086386)
 [[code]](https://github.com/Yangl1nFeng/RoMa)
 
+ 
